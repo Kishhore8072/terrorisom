@@ -40,7 +40,7 @@ Explore the visuals and insights
 <img width="593" alt="Screenshot 2025-07-09 212722" src="https://github.com/user-attachments/assets/c6a52f95-71be-415c-a615-1eaf0514cf96" />
 
 📌 Notes
-Data Source: Global Terrorism Database (GTD) (Replace if different)
+Data Source: Global Terrorism Database (GTD) 
 
 Year Range: 1970 to 2017 (or as per your dataset)
 
